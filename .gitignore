@@ -7,3 +7,9 @@ target/
 
 # Ignore MacOS metadata.
 .DS_Store
+
+# Eclipse files
+.project
+.settings
+.classpath
+.checkstyle
